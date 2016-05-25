@@ -63,11 +63,11 @@ Scenario 1:
 
 ::
 
-    Given that I'm addicted to the randomness of lottery
-        And I can't seem to be increasing my savings account 
-        And I don't know my chances of winning, as they change every time,
-    When I play this lottery game, I'll be able to see how often I can win
-    Then play repeateldy if I don't believe it, simulate it dozens of times.
-        And the statistics will set me free, if not I can simulate it again
-        And choose my own numbers
-        And save my money up once more.
+|    Given that I'm addicted to the randomness of lottery
+|        And I can't seem to be increasing my savings account 
+|        And I don't know my chances of winning, as they change every time,
+|    When I play this lottery game, I'll be able to see how often I can win
+|    Then play repeateldy if I don't believe it, simulate it dozens of times.
+|        And the statistics will set me free, if not I can simulate it again
+|        And choose my own numbers
+|        And save my money up once more.
