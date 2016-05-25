@@ -1,6 +1,6 @@
-==============
+##############
 LottoAddict
-==============
+##############
 
 LottoAddict is a little program that simulates buying a lottery ticket and winning if you manage to match any numbers
 
