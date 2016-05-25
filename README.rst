@@ -58,7 +58,7 @@ run dozens upon dozens of trials simultaneously, so single tickets do not have t
 Acceptance Stories
 ^^^^^^^^^^^^^^^^^^
 
-[Acceptance Story Name]
+Scenario 1:
 ```````````````````````
 
 ::
